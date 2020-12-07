@@ -37,7 +37,7 @@ body {
 }
 
 .split.left {
-  background-image: url("/css/img/ps5.jpg");
+  background-image: url("img/ps5.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -61,7 +61,7 @@ body {
 
 .split.right {
   right: 0;
-  background-image: url("/css/img/xbox.jpg");
+  background-image: url("img/xbox.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -129,7 +129,7 @@ h1 {
     transform: translateX(-50%);
     font-size: 2rem;
     padding: 1rem;
-   
+
 }
 .container.left-active .split.left{
     width: 65%
@@ -144,5 +144,3 @@ h1 {
     width: 35%
 }
 }
-
-
